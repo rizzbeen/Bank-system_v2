@@ -45,7 +45,7 @@ To setup a local development environment:
 ### Clone GitHub Project:
 
 ```bash
-git@github.com:yourusername/bank-system-v2.git
+git@github.com:rizzbeen/bank-system-v2.git
 cd bank-system-v2
 ```
 
